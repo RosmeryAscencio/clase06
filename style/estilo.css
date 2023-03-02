@@ -1,0 +1,63 @@
+
+body{
+    background-image: url("../flor.jpg");
+    }
+    /*espacio ----------------------------------------------------- */
+  h1 {
+    font-family:Algerian;
+    font-size: 8vw;
+    background-image: url("../yo.jpg");
+    text-align: center;
+    color:rgb(255, 0, 221);
+    border-radius: 0.7vw;
+
+    margin-top: 80px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+
+    padding: 50px 80px;
+    }
+    /*espacio ----------------------------------------------------- */
+    p {
+    font-size: 25px;
+    line-height: 50px;
+    background-color: rgb(245, 99, 221);
+    border-style: dashed;
+    border-width: 20px;
+    border-color: rgb(254, 1, 153);
+    border-radius: 0.7vw;
+    color: aliceblue;
+
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+
+    padding: 50px 80px;
+     }
+     /*espacio ----------------------------------------------------- */
+    h2 {
+        font-family:Algerian;
+        font-size: 35px;
+        line-height: 50px;
+        background-color: rgb(245, 99, 221);
+        border-style: dotted;
+        border-width: 20px;
+        /*border-color: rgb(254, 1, 153);*/
+        border-radius: 0.7vw;
+        color: rgb(254, 1, 153);
+        text-align: center;
+        background-image: url("../yo.jpg");
+    
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-right: 150px;
+        margin-left: 80px;
+    
+        padding: 50px 80px;
+    }
+
+
+            
+        
